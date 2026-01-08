@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning about LLM engineering<br>I completed b. tech in CSE(AIML)<br>I also have knowlege about Java Python SQL Machine Learning <br>DevOps And AWS<br>I want to contribute in LLM projects or Machine learning projects<br>
+I am currently learning about LLM engineering<br>I have completed my B. Tech in CSE(AIML)<br>I also have knowlege about Java Python SQL Machine Learning <br>DevOps And AWS<br>I want to contribute in LLM projects or Machine learning projects<br>
 
 
 ## 🌐 Socials:
